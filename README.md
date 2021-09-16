@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vincent (@Anchang30)
-- 👀 I’m interested in using data science toward ecological oriented projects and/or to taclke environmental issues
-- 🌱 I have finished Le Wagon's formation in I.A. development and data science
+- 👀 I’m interested in using data science toward ecological oriented projects and/or to tackle environmental issues
+- 🌱 I have finished Le Wagon's formation in I.A. development and data science (summer 2021)
 - 💞️ I’m interested in economics, energy problematics, cybernetics and information theory, as well as neurosciences (my former academic education)
 - 📫 How to reach me : lavilleyvincent@gmail.com
 
